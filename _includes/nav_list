@@ -14,7 +14,14 @@
             {% assign domain = base_path %}
           {% endif %}
 
-          <a href="{{ domain }}{{ nav.url }}"><span class="nav__sub-title">{{ nav.title }}</span></a>
+          {% comment %}Check if link should open in a new tab{% endcomment %}
+          {% if nav.url contains ".pdf" or nav.target == "_blank" %}
+            {% assign target_attr = 'target="_blank" rel="noopener noreferrer"' %}
+          {% else %}
+            {% assign target_attr = '' %}
+          {% endif %}
+
+          <a href="{{ domain }}{{ nav.url }}" {{ target_attr }}><span class="nav__sub-title">{{ nav.title }}</span></a>
         {% else %}
           <span class="nav__sub-title">{{ nav.title }}</span>
         {% endif %}
@@ -36,7 +43,14 @@
               {% assign active = "" %}
             {% endif %}
 
-            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}">{{ child.title }}</a></li>
+            {% comment %}Check if child link should open in a new tab{% endcomment %}
+            {% if child.url contains ".pdf" or child.target == "_blank" %}
+              {% assign child_target_attr = 'target="_blank" rel="noopener noreferrer"' %}
+            {% else %}
+              {% assign child_target_attr = '' %}
+            {% endif %}
+
+            <li><a href="{{ domain }}{{ child.url }}" class="{{ active }}" {{ child_target_attr }}>{{ child.title }}</a></li>
           {% endfor %}
         </ul>
         {% endif %}
