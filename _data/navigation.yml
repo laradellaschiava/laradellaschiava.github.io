@@ -17,5 +17,6 @@ main:
   - title: "Projects"
     url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+- title: "CV"
+    url: /files/cv.pdf
+    target: "_blank"
