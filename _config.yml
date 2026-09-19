@@ -23,7 +23,7 @@ repository               : "laradellaschiava/laradellaschiava.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Lara Della Schiava"
   pronouns         : "she/her" 
   bio              : "PhD Candidate in Sociology and Methodology of Social Research | University of Milan and University of Turin"
