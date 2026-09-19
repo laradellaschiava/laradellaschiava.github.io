@@ -1,14 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Un’analisi quantitativa della misoginia nelle canzoni rap e trap italiane"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: https://doi.org/10.54103/2532-1803/28591 
+excerpt: #
+date:  2025-08-01 
+venue: 'Lingue e Culture dei Media'
+slidesurl: #
+paperurl: #
+bibtexurl: #
+citation: "Della Schiava, L. (2025). Un’analisi quantitativa della misoginia nelle canzoni rap e trap italiane. Lingue E Culture Dei Media, 9(1), 99–122. https://doi.org/10.54103/2532-1803/28591"
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+ABSTRACT:
+Negli ultimi anni, la musica rap e trap ha acquisito un ruolo predominante nel panorama musicale italiano, diventando un fenomeno di massa e attirando sempre più attenzione mediatica, la quale ha portato con sé numerosi dibattiti, in particolare per la presenza di contenuti violenti e misogini all’interno dei testi. Questo studio si propone di analizzare quantitativamente la diffusione della misoginia nei testi della musica rap e trap italiana, attraverso un’analisi testuale su un ampio corpus di brani pubblicati tra il 1993 e il 2025. Utilizzando tecniche di analisi testuale quantitativa, la ricerca esamina la frequenza e la tipologia di riferimenti misogini, analizzandone l’evoluzione temporale e la relazione con la popolarità degli artisti. I risultati evidenziano come circa un terzo dei testi contenga espressioni misogine, con una prevalenza di termini derogatori e riferimenti sessualizzanti, mentre le espressioni di violenza diretta risultano meno frequenti. Questi risultati appaiono sostanzialmente costanti nel tempo, evidenziando come non si tratti di una problematica generazionale. Un dato particolarmente significativo riguarda la correlazione diretta tra il livello di misoginia nei testi e la popolarità degli/delle artisti/e. L’analisi dei brani a tema amoroso rivela una tendenza inaspettata: le canzoni d’amore con una connotazione positiva contengono una maggiore frequenza di termini derogatori rispetto a quelle con una narrazione negativa, suggerendo un uso normalizzato di espressioni sessiste anche in contesti affettivi. Preoccupante è l’aumento di riferimenti violenti nei testi che parlano di relazioni concluse, in cui la violenza sembra talvolta giustificata dalla fine della relazione. Infine, l’indagine sulla partecipazione femminile nella scena rap evidenzia una forte disparità di genere, con una presenza esigua di rapper donne, le quali, tuttavia, adottano anch’esse – seppur in misura minore – una rappresentazione dalle componenti misogine. Questo studio offre un contributo rilevante al dibattito sul linguaggio della musica rap e trap, soprattutto nel contesto italiano dove questo campo di studi si trova ancora in uno stato embrionale, inserisce nel più ampio dibattito sulla rappresentazione della femminilità nei media e sul ruolo della musica nella costruzione dell’immaginario collettivo.
