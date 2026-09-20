@@ -1,7 +1,7 @@
 ---
 title: "The Role of Gender Stereotypes in Shaping Attitudes Toward Intimate Partner Violence: A Survey Experiment on Gender, Beliefs, and Violence in the Italian Context"
 collection: talks
-type:
+type: Conference
 permalink: #
 venue: "X SISEC Conference"
 date: 28-01-2026
