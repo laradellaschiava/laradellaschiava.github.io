@@ -6,6 +6,8 @@ permalink: /talk/2026_2_P_C_SISCC_RAP_QN
 venue: "SISCC"
 date: 2026-06-17
 location: "Roma"
+layout: single
+excerpt: ""
 ---
 
 ## Abstract
