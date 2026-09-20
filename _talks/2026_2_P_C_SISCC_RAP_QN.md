@@ -8,6 +8,7 @@ date: 2026-06-17
 location: "Roma"
 layout: single
 excerpt: ""
+author_profile: true
 ---
 
 ## Abstract
