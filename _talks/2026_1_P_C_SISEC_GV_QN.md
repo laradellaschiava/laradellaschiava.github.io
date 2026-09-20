@@ -6,6 +6,7 @@ permalink: /talk/2026_1_P_C_SISEC_GV_QN
 venue: "X SISEC Conference"
 date: 2026-01-28
 location: "Firenze"
+layout: single
 ---
  
 
