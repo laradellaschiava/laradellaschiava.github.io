@@ -12,7 +12,7 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /talks/    
+    url: /talk/    
     
   - title: "Projects"
     url: /portfolio/
