@@ -4,7 +4,7 @@ collection: talks
 type: Conference
 permalink: /talk/2026_2_P_C_SISCC_RAP_QN
 venue: "SISCC"
-date: 17-06-2026
+date: 2026-06-17
 location: "Roma"
 ---
 
