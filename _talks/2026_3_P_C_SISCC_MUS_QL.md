@@ -6,6 +6,8 @@ permalink: /talk/2026_3_P_C_SISCC_MUS_QL
 venue: "SISCC"
 date: 2026-06-17
 location: "Roma"
+layout: single
+excerpt: ""
 ---
 ## Abstract
 
