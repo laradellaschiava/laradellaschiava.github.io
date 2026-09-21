@@ -1,26 +1,26 @@
 /* ==========================================================================
-   MINT THEME - DARK VERSION
+   ROSE & MAGENTA THEME - DARK VERSION
    ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #30e3ca;
-$background                 : #1a2421;
-$background-light           : #243430;
-$background-lighter        : #2e443f;
-$text                      : #e8f5f3;
-$text-muted                : #b8d5d1;
-$link                      : #4effd9;
-$link-dark                 : #7cffdf;
-$link-light                : #2bd4bd;
-$footer                    : #0f1614;
-$border                    : #2e443f;
-$border-light              : #3d5950;
+$primary-color              : #ff4081; /* Fucsia/Magenta brillante per accenti su fondo scuro */
+$background                 : #1a1215; /* Sfondo generale (scuro con sottotono rosa caldo) */
+$background-light           : #261a1f; /* Sfondo riquadri e blocchi di codice */
+$background-lighter         : #33232a; /* Sfondo elementi in evidenza e tabelle */
+$text                       : #f5e6eb; /* Testo principale rosa chiarissimo/chiaro per massima leggibilità */
+$text-muted                 : #c4a1ac; /* Testo secondario, date e sottotitoli */
+$link                       : #ff6090; /* Rosa fucsia luminoso per i link cliccabili */
+$link-dark                  : #ff8cb3; /* Rosa più chiaro per l'effetto hover */
+$link-light                 : #f50057; /* Rosa intenso per link già visitati */
+$footer                     : #120c0e; /* Piè di pagina scuro profondo */
+$border                     : #33232a; /* Bordi sottili dei contenitori */
+$border-light               : #4a333d; /* Bordi più marcati e separatori */
 
 /* Color codes used for the site */
-$danger-color               : #e74c3c;
-$info-color                 : #4effd9;
-$notice-color               : #30e3ca;
-$success-color              : #2ecc71;
-$warning-color              : #f39c12;
+$danger-color               : #ff5252;
+$info-color                 : #ff4081;
+$notice-color               : #33232a;
+$success-color              : #69f0ae;
+$warning-color              : #ffd740;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -43,14 +43,13 @@ html[data-theme="dark"] {
   --global-code-text-color            : #{$text-muted};
   --global-fig-caption-color          : #{$text-muted};
   --global-link-color                 : #{$link};
-  --global-link-color-hover           : #{$link-dark};
+  --global-link-color-hover            : #{$link-dark};
   --global-link-color-visited         : #{$link-light};
   --global-masthead-link-color        : #{$text};
   --global-masthead-link-color-hover  : #{$primary-color};
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$background-lighter};
-
 }
 
 /* Footer styling for dark mode */
