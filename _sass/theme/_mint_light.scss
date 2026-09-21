@@ -1,30 +1,30 @@
 /* ==========================================================================
-  MINT THEME - LIGHT VERSION
-  ========================================================================== */
+   ROSE & MAGENTA THEME - LIGHT VERSION
+   ========================================================================== */
 /* Color codes used for the theme */
-$primary-color              : #11999e;
+$primary-color              : #d81b60; /* Fucsia/Magenta principale per accenti e dettagli */
 $dark-primary-color         : mix(#000, $primary-color, 40%);
 $darker-primary-color       : mix(#000, $primary-color, 60%);
 $light-primary-color        : mix(#fff, $primary-color, 50%);
 $lighter-primary-color      : mix(#fff, $primary-color, 90%);
-$background                 : #f3f6f6;
-$background-light           : #ffffff;
-$background-lighter        : #fafbfb;
-$text                      : #40514e;
-$text-muted                : #5c6d6a;
-$link                      : #11999e;
-$link-dark                 : mix(#000, $link, 25%);
-$link-light                : mix(#fff, $link, 25%);
-$footer                    : #30e3ca;
-$border                    : mix(#fff, #40514e, 75%);
-$border-dark               : mix(#fff, #40514e, 60%);
+$background                 : #fdf8fa; /* Sfondo generale della pagina (sfumatura chiarissima di rosa) */
+$background-light           : #ffffff; /* Sfondo dei riquadri e del codice (bianco puro) */
+$background-lighter         : #fff0f5; /* Sfondo per elementi in evidenza (lavanda/rosa cipria) */
+$text                       : #2d2427; /* Testo scuro caldo (molto leggibile, più morbido del nero puro) */
+$text-muted                 : #6e5d63; /* Testo secondario, date e sottotitoli */
+$link                       : #c2185b; /* Rosa fucsia intenso per i link cliccabili */
+$link-dark                  : mix(#000, $link, 25%);
+$link-light                 : mix(#fff, $link, 25%);
+$footer                     : #f8e1eb; /* Sfondo del piè di pagina (rosa pastello morbido) */
+$border                     : mix(#fff, #2d2427, 85%);
+$border-dark                : mix(#fff, #2d2427, 70%);
 
 /* Color codes used for the site */
-$danger-color               : #e74c3c;
-$info-color                 : #11999e;
-$notice-color               : #30e3ca;
-$success-color              : #2ecc71;
-$warning-color              : #f39c12;
+$danger-color               : #e53935;
+$info-color                 : #d81b60;
+$notice-color               : #f8e1eb;
+$success-color              : #2e7d32;
+$warning-color              : #f57c00;
 
 /* Other basic settings for the template */
 $border-radius              : 4px;
@@ -47,18 +47,15 @@ $sidebar-screen-min-width   : 1024px;
   --global-code-text-color            : #{$darker-primary-color};
   --global-fig-caption-color          : #{$text-muted};
   --global-link-color                 : #{$link};
-  --global-link-color-hover           : #{$link-dark};
+  --global-link-color-hover            : #{$link-dark};
   --global-link-color-visited         : #{$link-light};
   --global-masthead-link-color        : #{$text};
   --global-masthead-link-color-hover  : #{$primary-color};
   --global-text-color                 : #{$text};
   --global-text-color-light           : #{$text-muted};
   --global-thead-color                : #{$lighter-primary-color};
-
 }
 
 footer {
   color: #{$text};
 }
-
-
