@@ -3,7 +3,7 @@ title: "The Role of Gender Stereotypes in Shaping Attitudes Toward Intimate Part
 collection: talks
 type: Conference
 permalink: /talk/2026_1_P_C_SISEC_GV_QN
-venue: "SISEC"
+venue: "Società Italiana di Sociologia Economica (SISEC)"
 date: 2026-01-28
 location: "Firenze"
 layout: single
