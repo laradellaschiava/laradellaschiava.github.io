@@ -10,7 +10,8 @@ layout: single
 excerpt: ""
 author_profile: true
 ---
- 
+
+**Panel:** Experimental Methods in Socioeconomic Analysis: Uncovering Micro-Mechanisms and Policy Impacts
 
 ## Abstract
 
