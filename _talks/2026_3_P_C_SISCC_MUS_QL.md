@@ -3,7 +3,7 @@ title: "Pratiche di ascolto e significati sociali della GenZ: un laboratorio par
 collection: talks
 type: Conference
 permalink: /talk/2026_3_P_C_SISCC_MUS_QL
-venue: "SISCC"
+venue: "Società Scientifica Italiana di Sociologia, Cultura, Comunicazione (SISCC)"
 date: 2026-06-17
 location: "Roma"
 layout: single
